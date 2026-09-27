@@ -1,5 +1,6 @@
-[![Banner Image] (./banner/farian_github_banner.png)]
-
+<p align="center">
+  <img src="./banner/farian_github_banner.png" width="100%" alt="GitHub Banner">
+</p>
 
 # 💫 About Me:
 🎓  Pursuing BSc. In CSE From BRAC University<br> <br>🌱 I’m currently learning Full-Stack Web Development<br><br>👨‍💻 All of my projects are available at:  farian2006<br><br>📫 How to reach me: fariantazwar@gmail.com<br><br>
