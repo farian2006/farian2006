@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./banner.png" width="100%" />
-</p>
+![Banner Image] ('./banner/farian_github_banner.png');
 
 
 # 💫 About Me:
