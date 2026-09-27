@@ -1,4 +1,4 @@
-![Banner Image] ('./banner/farian_github_banner.png');
+![Banner Image] (./banner/farian_github_banner.png);
 
 
 # 💫 About Me:
