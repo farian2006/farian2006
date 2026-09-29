@@ -39,7 +39,9 @@
 ![](https://github.com/farian2006/fit-log-app)
 
 ---
+## Profile Views
 
+![Profile views](https://komarev.com/ghpvc/?username=farian2006&style=flat-square)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
