@@ -6,6 +6,11 @@
 💫 About Me:
 🎓  Pursuing BSc. In CSE From BRAC University<br> <br>🌱 I’m currently learning Full-Stack Web Development<br><br>👨‍💻 All of my projects are available at:  farian2006<br><br>📫 How to reach me: fariantazwar@gmail.com<br><br>
 
+🌐 Check out my portfolio:
+
+👉  https://farian-portfolio-theta.vercel.app/
+
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/fariantazwar ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/farian_tazwar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fariantazwar20) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/33148244) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/farian_tazwar ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fariantazwar@gmail.com) 
