@@ -27,9 +27,6 @@
   <a href="https://stackoverflow.com/users/33148244" target="_blank">
     <img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" width="48" height="48" />
   </a>
-  <a href="mailto:fariantazwar@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="48" height="48" />
-  </a>
 </p>
 
 ---
