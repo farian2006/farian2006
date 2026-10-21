@@ -24,12 +24,6 @@
   <a href="https://x.com/farian_tazwar" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" alt="X (Twitter)" width="48" height="48" />
   </a>
-  <a href="https://facebook.com/fariantazwar" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" alt="Facebook" width="48" height="48" />
-  </a>
-  <a href="https://instagram.com/farian_tazwar" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="48" height="48" />
-  </a>
   <a href="https://stackoverflow.com/users/33148244" target="_blank">
     <img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" width="48" height="48" />
   </a>
@@ -54,7 +48,7 @@
 
 ### 🛠️ Tools, Platforms & Design
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,ai,ps" alt="Tools & Design" align="top" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,netlify" alt="Tools & Design" align="top" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="Canva" width="48" height="48" align="top" style="margin-left: 4px;" />
 </p>
 
