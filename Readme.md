@@ -1,52 +1,89 @@
 <p align="center">
- <img src="/banner/farian_github_banner.png" width="100%" alt="GitHub Banner">
-</P>
+  <img src="./banner/farian_github_banner.png" width="100%" alt="Farian Tazwar - GitHub Banner">
+</p>
 
+<p align="center">
+  <a href="https://github.com/farian2006">
+    <img src="https://komarev.com/ghpvc/?username=farian2006&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Profile Views" />
+  </a>
+</p>
 
-💫 About Me:
-🎓  Pursuing BSc. In CSE From BRAC University<br> <br>🌱 I’m currently learning Full-Stack Web Development<br><br>👨‍💻 All of my projects are available at:  farian2006<br><br>📫 How to reach me: fariantazwar@gmail.com<br><br>
+## 💫 About Me
 
-🌐 Check out my portfolio:
+- 🎓 Pursuing **B.Sc. in Computer Science & Engineering** at **[BRAC University](https://www.bracu.ac.bd/)**
+- 🌐 Check out my portfolio: **[farian-portfolio-theta.vercel.app](https://farian-portfolio-theta.vercel.app/)**
+- 🌱 Currently mastering **Full-Stack Web Development** & Modern Web Architectures
+- 👨‍💻 All of my public projects are available at **[@farian2006](https://github.com/farian2006?tab=repositories)**
+- 💬 Ask me about **JavaScript, Python, React, Next.js & UI/UX Design**
+- 📫 Reach out to me directly: **[fariantazwar@gmail.com](mailto:fariantazwar@gmail.com)**
 
-👉  https://farian-portfolio-theta.vercel.app/
-
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/fariantazwar ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/farian_tazwar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fariantazwar20) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/33148244) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/farian_tazwar ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fariantazwar@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=farian2006&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=farian2006&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=farian2006&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github.com/farian2006/fit-log-app)
+<p align="center">
+  <a href="https://linkedin.com/in/fariantazwar20" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48" />
+  </a>
+  <a href="https://x.com/farian_tazwar" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="X (Twitter)" width="48" height="48" />
+  </a>
+  <a href="https://facebook.com/fariantazwar" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" alt="Facebook" width="48" height="48" />
+  </a>
+  <a href="https://instagram.com/farian_tazwar" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="48" height="48" />
+  </a>
+  <a href="https://stackoverflow.com/users/33148244" target="_blank">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" width="48" height="48" />
+  </a>
+  <a href="mailto:fariantazwar@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="48" height="48" />
+  </a>
+</p>
 
 ---
-## Profile Views
 
-![Profile views](https://komarev.com/ghpvc/?username=farian2006&style=flat-square)
+## 💻 Tech Stack
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 Languages & Core
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,py,java,html,css" alt="Languages" />
+</p>
 
+### ⚛️ Frameworks & Web Tech
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs" alt="Frameworks" />
+</p>
+
+### 🛠️ Tools, Platforms & Design
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,ai,ps" alt="Tools & Design" align="top" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="Canva" width="48" height="48" align="top" style="margin-left: 4px;" />
+</p>
+
+---
+
+## 📊 GitHub Analytics & Streak
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=farian2006&theme=radical&show_icons=true&hide_border=false" alt="Farian's GitHub Stats" height="185" />
+  <img src="https://streak-stats.demolab.com/?user=farian2006&theme=radical&hide_border=false" alt="Farian's GitHub Streak" height="185" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=farian2006&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="165" />
+  <a href="https://github.com/farian2006/fit-log-app" target="_blank">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=farian2006&repo=fit-log-app&theme=radical" alt="Featured: Fit Log App" height="165" />
+  </a>
+</p>
+
+---
+
+## ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
+
+---
+
+<p align="center">
+  ⭐ <i>Thanks for visiting my profile! Feel free to explore my repos and reach out to collaborate.</i> ⭐
+</p>
