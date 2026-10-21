@@ -54,7 +54,6 @@
 ## 📊 GitHub Analytics & Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=farian2006&theme=radical&show_icons=true&hide_border=false" alt="Farian's GitHub Stats" height="185" />
   <img src="https://streak-stats.demolab.com/?user=farian2006&theme=radical&hide_border=false" alt="Farian's GitHub Streak" height="185" />
 </p>
 
